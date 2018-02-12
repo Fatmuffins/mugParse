@@ -1,0 +1,21 @@
+{
+  "name": "mugparse",
+  "version": "1.0.0",
+  "description": "A utility for parsing retrieved mugshot data into numerical occurences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parse",
+    "mugshot",
+    "data",
+    "string",
+    "occurences"
+  ],
+  "author": "James Bearden <rorick@sf-n.com> (http://rorick.me)",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stream": "^0.1.3"
+  }
+}
